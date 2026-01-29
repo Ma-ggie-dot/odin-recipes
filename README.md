@@ -17,6 +17,6 @@ The goal of this website is to create a functional and responsive recipe website
 By completing this project, I will have demonstrated:
 - Creating web pages using HTML
 - Styling layouts and components using CSS
-- Adding interactivity with JavaScript (if applicable)
+- Adding interactivity with JavaScript
 - Using version control with Git and GitHub
 - Planning and organizing project structure
